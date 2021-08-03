@@ -7,3 +7,4 @@ function newsletter(){
     console.log('hello');
     console.log('noch cooler');
 }
+
