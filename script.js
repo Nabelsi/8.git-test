@@ -7,8 +7,9 @@ function init(){
 function newsletter(){
     console.log('hello');
     console.log('noch cooler!!!!!!!!!!!!!!!');
+    console.log("noch coolerrrrrrrrrrrrrrrrrr");
 }
 
-function newfeaturee(){
-    
-}
+function newfeaturee() {}
+
+function superr() {}
