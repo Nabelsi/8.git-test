@@ -1,6 +1,7 @@
 function init(){
 
     console.log("los geht");
+    console.log('servus');
 }
 
 function newsletter(){
