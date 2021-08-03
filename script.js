@@ -8,3 +8,6 @@ function newsletter(){
     console.log('noch cooler');
 }
 
+function newfeaturee(){
+    
+}
